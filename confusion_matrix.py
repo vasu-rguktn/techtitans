@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-from dataset import IUDataset
+from dataset_classification_main import IUDataset
 from model import MultimodalClassifier
 
 TEST_CSV = "data/test_labeled.csv"

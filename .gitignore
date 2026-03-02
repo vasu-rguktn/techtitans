@@ -5,3 +5,17 @@ venv/
 __pycache__/
 diffvenv/
 fake_xrays/
+fake_autoencoder1/
+fake_reports/
+fake_reports_autoencoder1/
+unseen_fake_test/
+auth_model_best.pt
+auth_model_full.pt
+auth_model_new.pt
+auth_model.pt
+autoencoder.pt
+hybrid_model_best.pt
+gan_discriminator.pth
+gan_generator.pth
+wgan_generator_medical.pth
+
